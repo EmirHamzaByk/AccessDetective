@@ -1,5 +1,5 @@
 # AccessDetective
-
+ 
 Bu Python kodu, bir hedef URL üzerinde belirli bir liste içinde bulunan olası yönetici panellerini kontrol etmek için kullanılır. İşleyişini aşağıda açıklıyorum:
 
 İlk olarak, kullanıcıdan hedef URL'yi girmesi istenir.
