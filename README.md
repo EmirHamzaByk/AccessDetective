@@ -10,7 +10,7 @@ Daha sonra, bir liste oluşturulur. Bu liste, potansiyel yönetici paneli adresl
 
 "liste" üzerinde döngü başlatılır ve her bir öğe için aşağıdaki adımlar gerçekleştirilir:
 
-**A. **Hedef URL ile "birles" adında bir tam URL oluşturulur.
+**A.**Hedef URL ile "birles" adında bir tam URL oluşturulur.
 
 **B.** requests.get() yöntemi kullanılarak ilgili URL'ye bir istek gönderilir ve yanıt alınır.
 
